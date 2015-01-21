@@ -30,8 +30,11 @@ Help to students
 
 interlibrary loan
 
-Mento mangment
+Mento management
+
 
 common requirement
 teach them as independent research...
+1. Informal presentation in the middle of course will be a good practice.
+2. Presentation at Math Club will be better.
 
