@@ -1,12 +1,16 @@
 # PLAN-URC-WEBSIT
 
+
+
 Research student - static website.
+
 1. list of mentor/picture
 2. list of students/picture   /current/former
 3. title of project
 4. activity
 5. Information: detail info, contact info, flyer
 6. Ready to report to department seminar
+
 --------------------------
 Budget
 1. Book purchase
