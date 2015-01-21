@@ -8,7 +8,7 @@ Research student - static website.
 4. activity
 5. Information: detail info, contact info, flyer
 6. Ready to report to department seminar
-
+--------------------------
 
 
 2.
