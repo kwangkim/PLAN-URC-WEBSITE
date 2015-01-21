@@ -25,7 +25,7 @@ Budget
 - Independent : Grade for credit.
 - Email: No Course but indep course. Faculty should know.
 - CETL-> 
-- Wed.. Meeting for mentor.
+- Wed.. Meeting for mentor.(1:10PM-1:55PM)
 ----------------
 Help to students
 
