@@ -36,5 +36,7 @@ Mento management
 common requirement
 teach them as independent research...
 1. Informal presentation in the middle of course will be a good practice.
+ - How to do that?
+ - Group of metors
 2. Presentation at Math Club will be better.
 
