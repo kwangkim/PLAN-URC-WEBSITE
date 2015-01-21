@@ -1,6 +1,5 @@
 # PLAN-URC-WEBSIT
 
-
 Research student - static website.
 1. list of mentor/picture
 2. list of students/picture   /current/former
@@ -9,10 +8,10 @@ Research student - static website.
 5. Information: detail info, contact info, flyer
 6. Ready to report to department seminar
 --------------------------
+Budget
+1. Book purchase
+2. Idea???
 
-
-2.
-3.
 
 
 ----
@@ -26,3 +25,7 @@ Research student - static website.
 - Independent : Grade for credit.
 - Email: No Course but indep course. Faculty should know.
 - CETL-> 
+----------------
+Help to students
+
+interlibrary loan
