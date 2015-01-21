@@ -11,6 +11,7 @@ Research student - static website.
 5. Information: detail info, contact info, flyer
 6. Ready to report to department seminar
 
+
 --------------------------
 Budget
 1. Book purchase
